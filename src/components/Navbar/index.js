@@ -19,7 +19,7 @@ function Navbar() {
                 isActive ? 'nav-link active' : 'nav-link'
               }
             >
-              Menu 1
+              About
             </NavLink>
           </li>
           <li className="nav-item">
