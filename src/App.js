@@ -6,9 +6,10 @@ import Wrapper from './components/Wrapper';
 import Footer from './components/Footer';
 // Pages //
 import Contact from './pages/Contact';
+import Projects from './pages/Projects';
+
 
 import './App.css';
-import Projects from './pages/Projects';
 
 function App() {
   return (
