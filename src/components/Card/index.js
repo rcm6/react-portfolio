@@ -1,9 +1,10 @@
 import React from "react";
-//import "./style.css";
+//import "./style.css"
+
 
 function Card(props) {
   return (
-    <div class="card">
+    <div class="card col-md-4">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -13,6 +14,8 @@ function Card(props) {
 }
 
 export default Card;
+
+ 
 
 
 /*
