@@ -34,12 +34,12 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <NavLink
-              to="/Menu3"
+              to="/Contact"
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
               }
             >
-              Menu 3
+              Contact
             </NavLink>
           </li>
         </ul>
