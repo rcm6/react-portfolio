@@ -1,7 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Wrapper from './components/Wrapper';
 import Navbar from './components/Navbar';
+import Header from './components/Header';
+import Wrapper from './components/Wrapper';
 import Footer from './components/Footer';
 
 
@@ -12,6 +13,7 @@ function App() {
     <Router>
       <div>
         <Navbar />
+        <Header />
         <Wrapper>
           <Routes>
           <Route path="/about" test />
