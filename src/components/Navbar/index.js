@@ -24,12 +24,12 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <NavLink
-              to="/Menu1"
+              to="/Projects"
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
               }
             >
-              Menu 2
+              Projects
             </NavLink>
           </li>
           <li className="nav-item">

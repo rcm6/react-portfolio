@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 import Contact from './pages/Contact';
 
 import './App.css';
+import Projects from './pages/Projects';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Wrapper>
           <Routes>
           <Route path="/contact" element={<Contact/>} />
+          <Route path="/projects" element={<Projects/>} />
           </Routes>
         </Wrapper>
         <Footer />
