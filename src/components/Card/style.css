@@ -1,3 +1,6 @@
 .card {
   margin:  15px 0;
 }
+.card-text, .card-title {
+  color: black;
+}

@@ -18,8 +18,11 @@ class Projects extends Component {
               key={index}       
               title={project.title}
               description={project.description}
+              technologies={project.technologies}
               image={project.image}
-              link={project.linkLive}
+              linkLive={project.linkLive}
+              linkRepo={project.linkRepo}
+
             />
           ))}
         </div>

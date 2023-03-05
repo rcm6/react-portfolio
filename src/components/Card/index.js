@@ -8,7 +8,12 @@ import "./style.css"
         <div className="card-body">
           <h5 className="card-title">{props.title}</h5>
           <p className="card-text">{props.description}</p>
-          <a href={props.link} className="btn btn-primary">{props.link}</a>
+          <hr></hr>
+          <p className="card-text">{props.technologies}</p>
+          <hr></hr>
+          <a href={props.linkLive} className="btn btn-primary">{props.linkLive}</a>
+          <a href={props.linkRepo} className="btn btn-primary">{props.linkRepo}</a>
+
           
 
         </div>

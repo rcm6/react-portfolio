@@ -4,41 +4,47 @@
         "description": "INFORMATION-0",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-0"
+        "linkLive": "URL-0",
+        "technologies": "technologies"
     },
     {
         "title": "TITLE-1",
         "description": "INFORMATION-1",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-1"
+        "linkLive": "URL-1",
+        "technologies": "technologies"
     },
     {
         "title": "TITLE-2",
         "description": "INFORMATION-2",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-2"
+        "linkLive": "URL-2",
+        "technologies": "technologies"
     },
     {
         "title": "TITLE-3",
         "description": "INFORMATION-3",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-3"
+        "linkLive": "URL-3",
+        "technologies": "technologies"
     },
     {
         "title": "TITLE-4",
         "description": "INFORMATION-4",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-4"
+        "linkLive": "URL-4",
+        "technologies": "technologies"
     },
     {
         "title": "TITLE-5",
         "description": "INFORMATION-5",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "linkLive": "URL-5"
+        "linkLive": "URL-5",
+        "technologies": "technologies"
     }
 ]
