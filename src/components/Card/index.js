@@ -6,7 +6,7 @@ import "./style.css"
 
  function Card(props) {
   return (
-     <div key={props.key} className="col-md-4">
+     <div className="col-md-4">
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">{props.title}</h5>

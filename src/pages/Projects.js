@@ -13,14 +13,13 @@ class Projects extends Component {
       <div className="container">
         <h2>Projects</h2>
         <div className="row hidden-md-up">
-        {this.state.data.map((project, key) => (
+        {this.state.data.map((project, index) => (
             <Card
-              index={project.index}
-              
+              key={project.index}       
               title={project.title}
               description={project.description}
               image={project.image}
-              link={project.link}
+              link={project.linkLive}
             />
           ))}
         </div>

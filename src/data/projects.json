@@ -1,29 +1,26 @@
 [
     {
         "index": 0,
-        "key": 0,
         "title": "TITLE-0",
         "description": "INFORMATION-0",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "link": "URL"
+        "linkLive": "URL"
     },
     {
         "index": 1,
-        "key": 1,
         "title": "TITLE-1",
         "description": "INFORMATION-1",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "link": "URL"
+        "linkLive": "URL"
     },
     {
         "index": 2,
-        "key": 2,
         "title": "TITLE-2",
         "description": "INFORMATION-2",
         "image": "IMAGE",
         "linkRepo": "GITHUB",
-        "link": "URL"
+        "linkLive": "URL"
     }
 ]
