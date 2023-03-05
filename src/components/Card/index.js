@@ -2,6 +2,29 @@ import React from "react";
 import "./style.css"
 
 
+
+
+ function Card(props) {
+  return (
+     <div key={props.key} className="col-md-4">
+      <div className="card">
+        <div className="card-body">
+          <h5 className="card-title">{props.title}</h5>
+          <p className="card-text">{props.description}</p>
+          <a href={props.link} className="btn btn-primary">{props.link}</a>
+          
+
+        </div>
+
+      </div>
+     </div>
+
+
+  )
+  }
+
+
+/*
 function Card(props) {
   return (
     <div class="col-md-4">
@@ -15,7 +38,7 @@ function Card(props) {
 </div>
   );
 }
-
+*/
 export default Card;
 
  
