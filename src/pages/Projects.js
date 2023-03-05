@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import Card from "../components/Card";
 import data from '../data/projects.json';
 
-console.log(data);
+//console.log(data);
 
 class Projects extends Component {
   state = {

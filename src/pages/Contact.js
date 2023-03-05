@@ -27,13 +27,13 @@ function Contact() {
 
   <div className="text-center">
   <section className="social-media">
-  <a class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rus-coleman/" role="button">
+  <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rus-coleman/" role="button">
   <FontAwesomeIcon icon={faLinkedin} className="fa-2xl"/>
   </a>
-  <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/rcm6" role="button">
+  <a className="btn btn-outline-light btn-floating m-1" href="https://github.com/rcm6" role="button">
   <FontAwesomeIcon icon={faGithub} className="fa-2xl"/>
   </a>
-  <a class="btn btn-outline-light btn-floating m-1" href="mailto:Demo@notrealaddress.com" role="button">
+  <a className="btn btn-outline-light btn-floating m-1" href="mailto:Demo@notrealaddress.com" role="button">
   <FontAwesomeIcon icon={faEnvelope} className="fa-2xl"/>
   </a>
   </section>
