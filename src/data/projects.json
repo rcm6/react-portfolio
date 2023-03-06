@@ -1,50 +1,50 @@
 [
     {
-        "title": "TITLE-0",
-        "description": "INFORMATION-0",
+        "title": "React Portfolio",
+        "description": "Web development portfolio. Built using React and Bootstrap.",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
+        "linkRepo": "https://github.com/rcm6/react-portfolio",
         "linkLive": "URL-0",
-        "technologies": "technologies"
+        "technologies": "React, Bootstrap, JavaScript, HTML, CSS"
     },
     {
-        "title": "TITLE-1",
-        "description": "INFORMATION-1",
+        "title": "Team Profile Generator",
+        "description": "Command Line Application to generate a team profile.",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
-        "linkLive": "URL-1",
-        "technologies": "technologies"
+        "linkRepo": "https://github.com/rcm6/team-profile-generator",
+        "linkLive": "",
+        "technologies": "Node, JavaScript, Inquirer, Jest"
     },
     {
-        "title": "TITLE-2",
-        "description": "INFORMATION-2",
+        "title": "Readme Generator",
+        "description": "Command Line Application to generate professional README documentation",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
-        "linkLive": "URL-2",
-        "technologies": "technologies"
+        "linkRepo": "https://github.com/rcm6/readme-generator",
+        "linkLive": "",
+        "technologies": "Node, JavaScript, Inquirer, Markdown"
     },
     {
-        "title": "TITLE-3",
-        "description": "INFORMATION-3",
+        "title": "My Favourite Movies",
+        "description": "OMDB movie search applicaOMDB movie search application with options to display rtion with options to display related youtube videos",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
-        "linkLive": "URL-3",
-        "technologies": "technologies"
+        "linkRepo": "https://github.com/rcm6/my-favourite-movies",
+        "linkLive": "https://rcm6.github.io/my-favourite-movies",
+        "technologies": "Javascript, JQuery, Bootstrap, REST API, Local Storage"
     },
     {
-        "title": "TITLE-4",
-        "description": "INFORMATION-4",
+        "title": "Weather Dashboard",
+        "description": "5 day weather forecast with search history utilising local storage.",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
-        "linkLive": "URL-4",
-        "technologies": "technologies"
+        "linkRepo": "https://github.com/rcm6/weather-dashboard",
+        "linkLive": "https://rcm6.github.io/weather-dashboard",
+        "technologies": "Javascript, JQuery, REST API, Local Storage"
     },
     {
         "title": "TITLE-5",
-        "description": "INFORMATION-5",
+        "description": "5 day weather forecast with search history utilising local storage.",
         "image": "IMAGE",
-        "linkRepo": "GITHUB",
-        "linkLive": "URL-5",
-        "technologies": "technologies"
+        "linkRepo": "https://github.com/rcm6/weather-dashboard",
+        "linkLive": "https://rcm6.github.io/weather-dashboard",
+        "technologies": "Javascript, JQuery, REST API, Local Storage"
     }
 ]
