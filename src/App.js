@@ -21,9 +21,10 @@ function App() {
         <Wrapper>
           <Routes>
           <Route path="/" element={<About/>} />
-          <Route path="/about" element={<About/>} />
-          <Route path="/contact" element={<Contact/>} />
-          <Route path="/projects" element={<Projects/>} />
+          <Route path="react-portfolio/" element={<About/>} />
+          <Route path="react-portfolio/about" element={<About/>} />
+          <Route path="react-portfolio/contact" element={<Contact/>} />
+          <Route path="react-portfolio/projects" element={<Projects/>} />
           </Routes>
         </Wrapper>
       </div>
