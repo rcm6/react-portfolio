@@ -4,7 +4,7 @@
         "description": "Web development portfolio. Built using React and Bootstrap.",
         "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/react-portfolio",
-        "linkLive": "URL-0",
+        "linkLive": "https://rcm6.github.io/react-portfolio/",
         "technologies": "React, Bootstrap, JavaScript, HTML, CSS"
     },
     {
