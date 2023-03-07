@@ -2,7 +2,7 @@
     {
         "title": "React Portfolio",
         "description": "Web development portfolio. Built using React and Bootstrap.",
-        "image": "IMAGE",
+        "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/react-portfolio",
         "linkLive": "URL-0",
         "technologies": "React, Bootstrap, JavaScript, HTML, CSS"
@@ -10,7 +10,7 @@
     {
         "title": "Team Profile Generator",
         "description": "Command Line Application to generate a team profile.",
-        "image": "IMAGE",
+        "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/team-profile-generator",
         "linkLive": "",
         "technologies": "Node, JavaScript, Inquirer, Jest"
@@ -18,15 +18,15 @@
     {
         "title": "Readme Generator",
         "description": "Command Line Application to generate professional README documentation",
-        "image": "IMAGE",
+        "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/readme-generator",
         "linkLive": "",
         "technologies": "Node, JavaScript, Inquirer, Markdown"
     },
     {
         "title": "My Favourite Movies",
-        "description": "OMDB movie search applicaOMDB movie search application with options to display rtion with options to display related youtube videos",
-        "image": "IMAGE",
+        "description": "OMDB movie search applicaOMDB movie search application with options to display related youtube videos",
+        "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/my-favourite-movies",
         "linkLive": "https://rcm6.github.io/my-favourite-movies",
         "technologies": "Javascript, JQuery, Bootstrap, REST API, Local Storage"
@@ -34,17 +34,17 @@
     {
         "title": "Weather Dashboard",
         "description": "5 day weather forecast with search history utilising local storage.",
-        "image": "IMAGE",
+        "image": "https://picsum.photos/600/400",
         "linkRepo": "https://github.com/rcm6/weather-dashboard",
         "linkLive": "https://rcm6.github.io/weather-dashboard",
         "technologies": "Javascript, JQuery, REST API, Local Storage"
     },
     {
-        "title": "TITLE-5",
-        "description": "5 day weather forecast with search history utilising local storage.",
-        "image": "IMAGE",
-        "linkRepo": "https://github.com/rcm6/weather-dashboard",
-        "linkLive": "https://rcm6.github.io/weather-dashboard",
-        "technologies": "Javascript, JQuery, REST API, Local Storage"
+        "title": "Work Day Scheduler",
+        "description": "Simple calendar application that allows a user to save events for each hour of the day",
+        "image": "https://picsum.photos/600/400",
+        "linkRepo": "https://github.com/rcm6/work-day-scheduler",
+        "linkLive": "https://rcm6.github.io/work-day-scheduler/",
+        "technologies": "Javascript, JQuery, MomentJS, Local Storage"
     }
 ]

@@ -1,4 +1,5 @@
 import React from "react";
+import resume from '../documents/Resume.pdf'
 
 function About() {
   return (
@@ -25,6 +26,9 @@ function About() {
           <li>Responsive web design</li>
           <li>Knowledge of international web and accessibility standards</li>
         </ul>
+        <div class="text-right">
+        <a href={resume} download="../documents/Resume.pdf" class="btn btn-outline-info">Download my résumé</a>
+        </div>
       
     
     </div>
