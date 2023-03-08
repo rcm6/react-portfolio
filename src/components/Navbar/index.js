@@ -13,7 +13,7 @@ function Navbar() {
         <ul className="nav navbar-nav ms-auto">
           <li className="nav-item">
             <NavLink
-              to="/react-portfolio/"
+              to="/About"
               end
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
@@ -24,7 +24,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <NavLink
-              to="/react-portfolio/Projects"
+              to="/Projects"
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
               }
@@ -34,7 +34,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <NavLink
-              to="/react-portfolio/Contact"
+              to="/Contact"
               className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
               }
@@ -50,29 +50,3 @@ function Navbar() {
 
 export default Navbar;
 
-
-/*
-<!-- Navbar start -->
-        <nav id="nav" class="navbar navbar-expand-lg navbar-dark bg-trans fixed-top navbar-expand">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="#work">Work</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#skills">Skills</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#about">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#contact">Contact</a>
-              </li>
-            </ul>
-            </div>
-        </nav>
-    <!-- Navbar end -->
-    */

@@ -8,7 +8,7 @@ function Header() {
   <div className="container text-center">
     <h1 className="display-4">Russell Coleman</h1>
     <p className="lead">Web design and development portfolio</p>
-    <img src={image} alt="avatar of russell coleman" class="avatar"></img>
+    <img src={image} alt="avatar of russell coleman" className="avatar"></img>
   </div>
 </div>
   );
